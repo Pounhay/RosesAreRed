@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Visual Studio/RosesAreRed/RosesAreRed/Content/Sounds/Breeze.mp3</SourceFile>
+  <SourceTime>2019-11-04T19:55:55.1462681-06:00</SourceTime>
+  <DestFile>D:/Visual Studio/RosesAreRed/RosesAreRed/Content/bin/Windows/Content/Sounds/Breeze.xnb</DestFile>
+  <DestTime>2019-11-04T20:01:41.1503735-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Visual Studio/RosesAreRed/RosesAreRed/Content/bin/Windows/Content/Sounds/Breeze.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
